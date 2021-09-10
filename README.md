@@ -1,4 +1,4 @@
-- A Java / C++ / Rust Programmer
+- Java / C++ / Rust Programmer
 
 - Working at Hardware Simulation Industry
 
