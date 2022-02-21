@@ -1,4 +1,4 @@
-- Java / C++ /  Programmer
+- Java / C++ / C# Programmer
 - Exploring in Embedded hardware...
 - A rookie Rustaceans
 
